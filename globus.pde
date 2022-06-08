@@ -1,8 +1,8 @@
 int xs=1920;
 int ys=1080;
 int mx=1000;
-int my=550;
-float sf=0.002;
+int my=1200;
+float sf=0.0005;
 PImage img;
 int counter=0;
 
